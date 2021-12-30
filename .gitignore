@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/angular,webstorm+all
-# Edit at https://www.toptal.com/developers/gitignore?templates=angular,webstorm+all
+# Created by https://www.toptal.com/developers/gitignore/api/webstorm+all,angular
+# Edit at https://www.toptal.com/developers/gitignore?templates=webstorm+all,angular
 
 ### Angular ###
 ## Angular ##
@@ -124,4 +124,4 @@ modules.xml
 # Sonarlint plugin
 .idea/sonarlint
 
-# End of https://www.toptal.com/developers/gitignore/api/angular,webstorm+all
+# End of https://www.toptal.com/developers/gitignore/api/webstorm+all,angular
